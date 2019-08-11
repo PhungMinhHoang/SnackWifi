@@ -1,0 +1,23 @@
+{
+  "name": "snack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PhungMinhHoang/SnackWifi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PhungMinhHoang/SnackWifi/issues"
+  },
+  "homepage": "https://github.com/PhungMinhHoang/SnackWifi#readme",
+  "dependencies": {
+    "socket.io": "^2.2.0",
+    "socket.io-client": "^2.2.0"
+  }
+}
